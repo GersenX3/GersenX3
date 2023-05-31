@@ -25,7 +25,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>
-
+<a href="https://gamemaker.io/es" target="_blank" rel="noreferrer">
+<img src="https://yt3.googleusercontent.com/DNuPYj1s0jhj_MBIO5wRRy2ynvIvyLyrxp5U6zdhL7GccoITHB_X76Clfd7W2JtGEo4iCtOK=s900-c-k-c0x00ffffff-no-rj" alt="git" width="40" height="40" />
+</a>
 <h3 align="left">Frontend Tools and Frameworks</h4>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
