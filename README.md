@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GersenX3" alt="GersenX3" /></a> </p>
 
 - 🔭 I’m currently working on a task manager app made whit react and a game make with 'GameMakerStudio2' Cat-Soul:
-    - ToDo App: [Try app](www.todoappgersen.netlify.app)
+    - ToDo App: [See code](https://github.com/GersenX3/reactTodoApp)
     - Cat-Soul: (pending marketing)
 
 - 🌱 I’m currently learning **Advanced React and Vue**
